@@ -1,4 +1,4 @@
-# Desafio 1 - Inmersion Java
+# Desafio 1 - Inmersión Java
 Este desafío inicial de la inmersión en Java de Alura Latam nos sumerge en los fundamentos del lenguaje, explorando los tipos de datos y las estructuras de control. 
 Aplicamos estos conceptos al desafío de crear un programa que permita seleccionar una película de una lista dada y luego calificarla, calculando finalmente el promedio de las calificaciones ingresadas.
 
